@@ -2,6 +2,7 @@ torch
 transformers
 langchain
 langchain-community
+langchain-text-splitters
 sentence-transformers
 python-dotenv
 bitsandbytes
@@ -11,5 +12,5 @@ langchain_huggingface
 pypdf
 faiss-cpu
 accelerate
-jupyterlab==3.6.1
+jupyterlab
 openpyxl
